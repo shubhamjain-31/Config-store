@@ -8,5 +8,5 @@ vehicle:
  default:
   model: cross over
 duration: all
-version: 2.0
+version: 3.0
 
