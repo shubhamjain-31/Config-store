@@ -8,5 +8,5 @@ vehicle:
  default:
   model: cross over
 duration: all
-version: 7.0 testing rabbitMQ
+version: {cipher}eb3116bd1e74ccb4b5ce3db8ee3f486864bccf12c16ff7e1a421e10f4d756883fc073f579a98a3723a78d4cf12287b5a
 
