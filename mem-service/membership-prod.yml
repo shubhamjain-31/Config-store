@@ -8,5 +8,5 @@ vehicle:
  default:
   model: cross over
 duration: all
-version: 4.0 testing rabbitMQ
+version: 5.0 testing rabbitMQ
 
