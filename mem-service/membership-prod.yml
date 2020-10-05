@@ -8,4 +8,4 @@ vehicle:
  default:
   model: cross over
 duration: all
-version: '{cipher}accbfe25a7ef712380b52fcef8a05d67c285b7a00d98bdf4a93b5895f532cd35'
+version: 'Hello'
