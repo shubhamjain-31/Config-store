@@ -1,0 +1,7 @@
+search:
+ result:
+  perpage: 10
+ canexport: true
+ render: false
+duration: all
+Data: Hi from Membership-SQL-database file
