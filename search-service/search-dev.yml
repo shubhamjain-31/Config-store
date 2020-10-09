@@ -5,5 +5,5 @@ search:
  render: false
 duration: all
 check: Hi from search-dev
-
+version: Version from search dev
 
