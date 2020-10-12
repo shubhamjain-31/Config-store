@@ -3,5 +3,4 @@ search:
   perpage: 100
  canexport: true
  render: false
-Hi: Hello from default search
 duration: all
