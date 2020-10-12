@@ -7,4 +7,5 @@ member:
 vehicle:
  default:
   model: cross over
+Hi: Hello from default Mem
 duration: all
