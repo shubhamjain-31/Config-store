@@ -9,4 +9,4 @@ vehicle:
   model: cross over
 duration: all
 Hello: Hello from MEM - dev
-version: '{cipher}ebbaedd6efb97151ef06a95981764133e4b6458115df34a4abe98ba25a8dd400'
+#version: '{cipher}ebbaedd6efb97151ef06a95981764133e4b6458115df34a4abe98ba25a8dd400'
