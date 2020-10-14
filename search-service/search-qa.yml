@@ -4,3 +4,7 @@ search:
  canexport: true
  render: false
 duration: all
+
+version: Hi from search-qa version
+
+
