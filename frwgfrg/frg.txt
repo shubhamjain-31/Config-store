@@ -1,0 +1,3 @@
+my:
+
+  greetings: Hello World from config server
