@@ -1,1 +1,3 @@
-prop1: val_json
+{
+  "prop1": "val_json"
+}
