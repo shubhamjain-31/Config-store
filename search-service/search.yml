@@ -1,6 +1,3 @@
-search:
- result:
-  perpage: 100
- canexport: true
- render: false
-duration: all
+A: a
+B: b
+C: c

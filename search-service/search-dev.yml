@@ -1,9 +1,2 @@
-search:
- result:
-  perpage: 10
- canexport: true
- render: false
-duration: all
-check: Hi from search-dev
-version: Version from search dev &&  ${Hi} &&  ${Hello}
-
+A: a
+B: bb
